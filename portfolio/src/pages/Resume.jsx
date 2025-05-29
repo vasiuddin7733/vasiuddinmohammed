@@ -7,7 +7,7 @@ const Resume = () => {
       <div className="flex items-center justify-between mb-8">
         <h1 className="text-4xl font-bold text-gray-800">My Resume</h1>
         <a
-          href="/Vasiuddin_Mohammed_CV.pdf"
+          href="/vasiuddinmohammed/Vasiuddin_Mohammed_CV.pdf"
           download
           className="inline-flex items-center bg-blue-600 text-white px-4 py-2 rounded-xl shadow hover:bg-blue-700 transition"
         >

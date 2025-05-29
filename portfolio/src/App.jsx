@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import Projects from "./pages/Projects";
-import CV from "./pages/CV";
+import Resume from "./pages/Resume";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 
@@ -12,9 +12,9 @@ export default function App() {
         <Navbar />
         <main className="flex-grow">
           <Routes>
-            <Route path="/vasiuddinmohammed" element={<Home />} />
-            <Route path="/vasiuddinmohammed/projects" element={<Projects />} />
-            <Route path="/vasiuddinmohammed/cv" element={<CV />} />
+            <Route path="/" element={<Home />} />
+            <Route path="/projects" element={<Projects />} />
+            <Route path="/resume" element={<Resume />} />
           </Routes>
         </main>
         <Footer />
