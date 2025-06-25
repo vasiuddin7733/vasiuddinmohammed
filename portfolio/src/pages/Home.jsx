@@ -13,7 +13,7 @@ export default function Home() {
         <h2 class="text-2xl font-semibold text-green-700 mb-4">
           Professional Summary
         </h2>
-        <div>
+        <div class="space-y-10">
           <p>
             With 4 years as a Fullstack Developer, I specialize in TypeScript,
             JavaScript, React, Next.js, Node.js, NestJS, MongoDB, MySQL,
@@ -21,13 +21,17 @@ export default function Home() {
             applications, integrating seamlessly with backend APIs and
             databases. My test automation expertise (ISTQB Certified) includes
             Selenium, Cypress, and Playwright, ensuring software quality.
+          </p>
+          <p>
             Currently, I’m expanding into Data Science, Machine Learning, and AI
             at Neue Fische, mastering Python, ML, and deep learning to build
-            AI-driven solutions. I hold an MBA from Osmania University and a
-            Bachelor’s in Mathematics, CS & Statistics from MIMS. With
-            certifications in React, Node, MongoDB, and more, I’m passionate
-            about continuous learning and developing impactful, user-centric
-            applications.
+            AI-driven solutions.
+          </p>
+          <p>
+            I hold an MBA from Osmania University and a Bachelor’s in
+            Mathematics, CS & Statistics from MIMS. With certifications in
+            React, Node, MongoDB, and more, I’m passionate about continuous
+            learning and developing impactful, user-centric applications.
           </p>
         </div>
       </section>
