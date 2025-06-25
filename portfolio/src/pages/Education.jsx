@@ -1,11 +1,15 @@
 export default function Education() {
   return (
     <div class="max-w-3xl mx-auto mt-10 space-y-8">
-      <h2 class="text-3xl font-bold text-green-700 mb-4">Education & Certifications</h2>
+      <h2 class="text-3xl font-bold text-green-700 mb-4">
+        Education & Certifications
+      </h2>
 
       <div>
         <h3 class="text-2xl font-bold mb-2">MBA in Technology Management</h3>
-        <p>University College of Commerce and Business Management (2013 - 2016)</p>
+        <p>
+          University College of Commerce and Business Management (2013 - 2016)
+        </p>
       </div>
 
       <div>
