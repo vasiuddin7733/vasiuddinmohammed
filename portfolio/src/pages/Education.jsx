@@ -14,7 +14,7 @@ export default function Education() {
 
       <div>
         <h3 class="text-2xl font-bold mb-2">B.Sc. in Computer Science</h3>
-        <p>Kakatiya University (2007 - 2013)</p>
+        <p>Kakatiya University (2010 - 2013)</p>
       </div>
 
       <div>
